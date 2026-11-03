@@ -18,10 +18,10 @@
 ### 🧠 System Architecture & About Me
 I am a B.Tech Computer Science undergraduate at **KIET Group of Institutions** operating at the edge of practical engineering. My workflow combines high-performance low-level systems, zero-blocking web pipelines, and autonomous decision agents. 
 
-* 🔭 **Current Obsession:** Building custom Model Context Protocol (MCP) servers and LLM-routed observability execution loops (like **OpsPulse**, featuring 10 production-ready diagnostics tools).
-* ⚡ **Core Philosophy:** Low latency, strict type safety, and deterministic agentic execution over bloated generative architectures.
-* 🏆 **Recent Milestone:** Cracked the **100 Days Badge on LeetCode**, shifting algorithmic logic into a daily compounding habit.
-* 🚀 **Leadership & Extracurriculars:** Core Team Member at **AI Skills Lab**, PRIR Coordinator at **Devups Club**, and active delegate background in platforms like KIETMUN.
+- 🔭 **Current Obsession:** Building custom Model Context Protocol (MCP) servers and LLM-routed observability execution loops (like **OpsPulse**, featuring 10 production-ready diagnostics tools).
+- ⚡ **Core Philosophy:** Low latency, strict type safety, and deterministic agentic execution over bloated generative architectures.
+- 🏆 **Recent Milestone:** Cracked the **100 Days Badge on LeetCode**, shifting algorithmic logic into a daily compounding habit.
+- 🚀 **Leadership & Extracurriculars:** Core Team Member at **AI Skills Lab**, PRIR Coordinator at **Devups Club**, and active delegate background in platforms like KIETMUN.
 
 ---
 
@@ -38,38 +38,38 @@ I am a B.Tech Computer Science undergraduate at **KIET Group of Institutions** o
 
 ### 💼 Experience & Leadership
 
-* **Frontend Developer Intern** | *Youth Helping Trust Foundation* *(Apr 2025 – Jun 2025)*
+- **Frontend Developer Intern** | *Youth Helping Trust Foundation* *(Apr 2025 – Jun 2025)*
   * Engineered responsive CRM dashboard components and user portals using React.js, Vite, and Tailwind CSS.
   * Translated high-fidelity Figma design prototypes into production-ready, modular code alongside senior engineering teams.
 
-* **Core Team Member** | *CoE AI Skills Lab* *(2025 – Present)*
+- **Core Team Member** | *CoE AI Skills Lab* *(2025 – Present)*
   * Co-organize technical bootcamps, hackathons, and skill-building workshops for active student developer communities.
   * Mentor participants on practical AI execution, toolchains, and collaborative project development.
 
-* **PRIR Coordinator & Campus Ambassador** | *Devups Club & KIET University* *(2025 – Present)*
+- **PRIR Coordinator & Campus Ambassador** | *Devups Club & KIET University* *(2025 – Present)*
   * Drive technical outreach initiatives, student engagement, and event leadership across university initiatives.
 
 ---
 
 ### 🔥 Featured Engineering & Open Source
 
-* **[OpsPulse](https://github.com/NeevWadhwa-Helloworld/SystemOne_MCP_Project-OpsPulse-)** – An AI-powered observability control center leveraging FastMCP, FastAPI, Turso Cloud SQLite, and React. Translates natural language text prompts into autonomous, type-safe operational actions across 10 production-ready diagnostic tools.
-* **[LandSys Blockchain Land Ownership System](https://github.com/NeevWadhwa-Helloworld/blockchain-based-land-ownership-system)** – Decentralized real estate registry and title-transfer platform built on Ethereum using Solidity smart contracts. *(Awarded Best Project at LOCK'IN Bootcamp)*
-* **[Odoo Hackathon Fleet Flow](https://github.com/ArnavBhardwaj123/Fleet-Flow-oddo)** – Logistics and fleet flow system built for the Odoo Hackathon to streamline transport execution and tracking.
-* **[Music AI Playlist Curator](https://github.com/NeevWadhwa-Helloworld/smart-playlist-curator)** – Mood-driven custom music recommendation system engineered using Python, Streamlit, and RAG pipelines.
+- **[OpsPulse](https://github.com/NeevWadhwa-Helloworld/SystemOne_MCP_Project-OpsPulse-)** – An AI-powered observability control center leveraging FastMCP, FastAPI, Turso Cloud SQLite, and React. Translates natural language text prompts into autonomous, type-safe operational actions across 10 production-ready diagnostic tools.
+- **[LandSys Blockchain Land Ownership System](https://github.com/NeevWadhwa-Helloworld/blockchain-based-land-ownership-system)** – Decentralized real estate registry and title-transfer platform built on Ethereum using Solidity smart contracts. *(Awarded Best Project at LOCK'IN Bootcamp)*
+- **[Odoo Hackathon Fleet Flow](https://github.com/ArnavBhardwaj123/Fleet-Flow-oddo)** – Logistics and fleet flow system built for the Odoo Hackathon to streamline transport execution and tracking.
+- **[Music AI Playlist Curator](https://github.com/NeevWadhwa-Helloworld/smart-playlist-curator)** – Mood-driven custom music recommendation system engineered using Python, Streamlit, and RAG pipelines.
 
 ---
 
 ### 📊 GitHub Telemetry & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeevWadhwa-Helloworld&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" alt="Neev's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=NeevWadhwa-Helloworld&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" alt="Neev's GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeevWadhwa-Helloworld&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeevWadhwa-Helloworld&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,html,css&langs_count=6" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=NeevWadhwa-Helloworld&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,html,css&langs_count=6" alt="Top Languages" />
 </p>
 
 ---
